@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
+/*Calculo de hipotenusa*/
+
 int main()
 {
     float cateto1, cateto2, hipotenusa;
